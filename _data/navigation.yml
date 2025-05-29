@@ -1,3 +1,13 @@
 main:
+  - title: "Home"
+    url: /home/
   - title: "About"
     url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Certificates"
+    url: /certificates/
+  - title: "GitHub"
+    url: /github/
+  - title: "LinkedIn"
+    url: /linkedin/
