@@ -22,7 +22,7 @@ header:
 ## Education
 
 
----
+
 
 ## Programming Skills
 
