@@ -21,7 +21,7 @@ data analysis. You will find:
 
 ### Contact Me 
 
-[My LinkedIn](https://www.linkedin.com/in/vladimir-burlay-b58554253/)  
+[My LinkedIn](https://www.linkedin.com/in/vburlay/)  
 [My Github](https://github.com/vburlay)
 
 E-mail: wladimir.burlay@gmail.com
