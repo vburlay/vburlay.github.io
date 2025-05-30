@@ -67,6 +67,10 @@ author:
   name   : "Vladimir Burlay"
   avatar : "/assets/images/bio_photo.jpg"
   bio    : "Data Science & Analytics, Data Storyteller"
+  location: "Düsseldorf - Germany"
+  email: "wladimir.burlay@gmail.com"
+  linkedin : "vburlay"
+  github   : "vburlay"
   links:
     - label: "LinkedIn"
       url: "https://www.linkedin.com/in/vburlay/"
