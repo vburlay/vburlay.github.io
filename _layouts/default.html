@@ -8,10 +8,14 @@
 -->
 
 <html lang="{{ site.locale | slice: 0,2 | default: 'en' }}" class="no-js">
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/main.css?v=' | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    <meta name="viewport" content="width=2000, initial-scale=1.25">
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
@@ -19,7 +23,7 @@
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <div class="initial-content">
+    <div class="wrapper">
       {{ content }}
     </div>
 

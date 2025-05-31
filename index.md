@@ -11,7 +11,7 @@ header:
 
 # About me
 
-## I'm currently working for [AOK Rheinland/Hamburg - The health insurance company](https://www.aok.de/pk/rh/) in Düsseldorf, as a full-time **BI-Engineer**, since June 2017.
+I'm currently working for [AOK Rheinland/Hamburg - The health insurance company](https://www.aok.de/pk/rh/) in Düsseldorf, as a full-time **BI-Engineer**, since June 2017.
 ---
 *As a problem-solving enthusiast, I have always been eager to meet new technical challenges, where I can learn some new things and feed my curiosity.  
 I got myself into Data Science early in my education in 2022 and had the chance to get my hands on all kinds of data, from sequential to spatial, images, audio signals, BI data etc.  
