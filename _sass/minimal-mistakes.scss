@@ -39,13 +39,8 @@
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
 
-.wrapper {
-  width:1500px;
+.page__inner_wrap {
+  width:1250px;
   margin:0 auto;
 }
 
-section {
-  width:1250px;
-  float:right;
-  padding-bottom:50px;
-}
