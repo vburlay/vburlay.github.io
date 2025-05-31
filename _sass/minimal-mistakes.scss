@@ -38,3 +38,14 @@
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
+
+.wrapper {
+  width:1250px;
+  margin:0 auto;
+}
+
+section {
+  width:900px;
+  float:right;
+  padding-bottom:50px;
+}
