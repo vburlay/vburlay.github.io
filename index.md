@@ -37,7 +37,7 @@ You can check about my different projects on my [projects page](https://vburlay.
 
 ## CV
 
-## Test
+
 
 ## Contact me
 
