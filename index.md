@@ -11,7 +11,7 @@ header:
 
 # About me
 
-
+I'm currently working for [AOK Rheinland/Hamburg - The health insurance company](https://www.aok.de/pk/rh/) in Düsseldorf, as a full-time **BI-Engineer**, since June 2017.
 ---
 
 
