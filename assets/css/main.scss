@@ -7,22 +7,11 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.wrapper {
-  width:1250px;
-  margin:0 auto;
-}
-
-section {
-  width:1250px;
-  float:right;
-  padding-bottom:50px;
-}
-.page__inner_wrap {
-  width:1250px;
-  margin:0 auto;
-}
-
-.page__content {
-  width:1250px;
-  margin:0 auto;
+.page .page__inner-wrap {
+    float: inline-start;
+    margin-top: 1em;
+    margin-inline: 0;
+    width: 100%;
+    clear: both;
+    width: 1250px;
 }
