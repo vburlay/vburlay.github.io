@@ -4,5 +4,5 @@
 
 @charset "utf-8";
 
-@import "_sass/minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "_sass/minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: '_default' }}"; // skin
 @import "_sass/minimal-mistakes"; // main partials
