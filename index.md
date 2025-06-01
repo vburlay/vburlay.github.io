@@ -33,7 +33,7 @@ I have been SAP Business Intelligence Specialist .
 
 ## Education
 
-- **[FOM](https://www.fom.de/)** - Cologne (Germany):  
+- **[FOM Hochschule](https://www.fom.de/)** - Cologne (Germany):  
   I graduated from FOM with a Master of Science (M.Sc.) in September 2022, majoring in Applied Big Data & Business Analytics. I completed my initial background with skills in *Deep-Learning*, Probability & Statistics, Computer Vision as well as Project Management.
 
 - **[Peter the Great St. Petersburg Polytechnic University](https://www.spbstu.ru/)** - St. Petersburg (Russia):  
