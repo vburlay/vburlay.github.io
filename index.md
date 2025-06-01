@@ -18,7 +18,7 @@ I'm currently working for [AOK Rheinland/Hamburg - The health insurance company]
 I got myself into Data Science early in my education in 2022 and had the chance to get my hands on all kinds of data, from sequential to spatial, images, audio signals, BI data etc.  
 As an BI Engineer & Data Science, I love to put forward my technical and analytical skills, tackle original problems and learn every day.*
 
-You can check about my different projects on my [projects page](https://vburlay.github.io/projects/)
+You can check about my different projects on my [projects page](https://vburlay.github.io/)
 
 ## Previous work experiences
 
