@@ -33,8 +33,8 @@ I have been SAP Business Intelligence Specialist .
 
 ## Education
 
-- **[FOM University of Applied Sciences for Economics and Management](https://www.fom.de/)** - Cologne (Germany):  
-  I studied abroad for a 3 years in the university of FOM in Germany, where I specialized in *Big Data & Business Analytics*. I completed my initial background with skills in *Deep-Learning*, Probability & Statistics, Computer Vision as well as Project Management.
+- **[FOM](https://www.fom.de/)** - Cologne (Germany):  
+  I graduated from FOM with a Master of Science (M.Sc.) in September 20022, majoring in Applied Big Data & Business Analytics. I completed my initial background with skills in *Deep-Learning*, Probability & Statistics, Computer Vision as well as Project Management.
 
 - **[Peter the Great St. Petersburg Polytechnic University](https://www.spbstu.ru/)** - St. Petersburg (Russia):  
   I studied abroad for a 3 years in the university of SPBSTU in Russia, where I specialized in *Applied Mathematics* and *Computer Science*.
