@@ -22,43 +22,54 @@ You can check about my different projects on my [projects page](https://rafaelca
 
 ## Previous work experiences
 
-- **Machine Learning R&D Engineer** - Shanghai:  
-  I completed my end-of-study internship in Shanghai as a Machine Learning R&D Engineer for a sino-french startup called **[Mediasia-Labs](http://mediasia-labs.com)**. I have been working on *Deep-Learning* and *Advanced Algorithms* applied to Pronunciation Evaluation for language learners.
+- **[Company AOK Rheinland/Hamburg](https://www.aok.de/pk/rh/)** - june 2017 - present. Düsseldorf:  
+  I work in a cross-functional team with Software Engineers, Analysts and Product Menagers with the Forecasting and Optimisation domains. I have been working on *Data Analysis, SQL - Programming in SAP HANA, Reporting* and *Advanced Algorithms*.
 
-- **Research Assistant** - Daejon (South-Korea):  
-  I have been a volunteer in a Research Laboratory dedicated to Artificial Intelligence **[AIM](http://slsp.kaist.ac.kr/xe/)** where I worked on video classification for the CVPR2017 workshop, especially working on *Attention Gated LSTM Cell*, in TensorFlow.
+  - **[NTT DATA](https://www.nttdata.com/global/en/)** - Feb. 2015 - Feb. 2016. Munich (Germany)  
+  I have been SAP Business Intelligence Specialist .
 
-- **Software Engineer Intern** - Paris:  
-  I have been an intern at **[Aerow](https://www.aerow.group/en/home/)** in Paris, as a Software Engineer and integrator. I have been developing a simple OCR for bankcheques CMC7 code, using simple *Machine-Learning* techniques.
-
+- **[T-Systems International](https://www.t-systems.com/)** - March 2012 - Jan. 2015. St. Petersburg (Russia):  
+  I have been SAP Business Intelligence Specialist . 
 ## Education
 
-- **Graduate Exchange Program** - Daejeon (South-Korea):  
-  I studied abroad for a year in the top university of KAIST in South-Korea, where I specialized in *Machine-Learning*. I completed my initial background with skills in *Deep-Learning*, NLP, Computer Vision as well as Search-Based Algorithms.
+- **[FOM University of Applied Sciences for Economics and Management](https://www.fom.de/)** - Cologne (Germany):  
+  I studied abroad for a 3 years in the university of FOM in Germany, where I specialized in *Big Data & Business Analytics*. I completed my initial background with skills in *Deep-Learning*, Probability & Statistics, Computer Vision as well as Project Management.
 
-- **Master Of Engineering** - Rouen (France):  
-  I graduated from INSA Rouen Normandy with a Master of Engineering in April 2018, majoring in *Applied Mathematics* and *Computer Science*.
+- **[Peter the Great St. Petersburg Polytechnic University](https://www.spbstu.ru/)** - St. Petersburg (Russia):  
+  I studied abroad for a 3 years in the university of SPBSTU in Russia, where I specialized in *Applied Mathematics* and *Computer Science*.
+
+## Certificate
+
+[TensorFlow Developer Certificate](https://www.credential.net/43e89713-a780-484f-957e-b9e5a7d72696#acc.zeXnIt5o)
+
+[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/XE5L6AENRSP5)
+[Calculus for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/XWNLN87B5F3E)
+[Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/AL74EV9U2ZKN)
+[Machine Learning](https://www.coursera.org/account/accomplishments/specialization/PDVUJAKCGYXG)
+[Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/GMC67LJ5URNQ)
+[Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/BZPLF23A484V)
+[Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/verify/7VY7WBZJLVQE)
 
 ---
 
-## Programming Skills
+## Skills
 
-Proficient with: **Python, C/C++, Tensorflow, Apache Spark, Torch7, Scikit-Learn, Matlab, MongoDB, SQL, bash, Git.**
+Proficient with: **Probability & Statistics, Python, Machine Learning((scikit-learn, xgboost, Tensorflow), FastAPI, Container: Docker, AWS (S3, ECS), MLflow, DVC, MLop, Git.**
 
-Familiar with: **Java**
+Familiar with: **HTML,CSS,JavaScript,R,PyTorch**
 
 ## Languages
 
-| Language | Level            |
-|----------|------------------|
-| Russian  | Fluent           |
-| German   | Intermediate     |
-| English  | Pre-Intermediate |
+| Language | Level        |
+|----------|--------------|
+| Russian  | Fluent       |
+| German   | Intermediate |
+| English  | Intermediate |
 
 ## CV
 
 Find attached the PDF version of my CVs:  
-*English version*: [CV]({{ site.url }}/download/CV_english.pdf)  
+*German version*: [CV]({{ site.url }}/download/CV_english.pdf)  
 
 
 Update: 2025/01/06
