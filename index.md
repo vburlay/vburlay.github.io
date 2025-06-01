@@ -55,7 +55,7 @@ You can check about my different projects on my [projects page](https://rafaelca
 
 ## Skills
 
-Proficient with: **Probability & Statistics, Python, Machine Learning((scikit-learn, xgboost, Tensorflow), FastAPI, Container: Docker, AWS (S3, ECS), MLflow, DVC, MLop, Git.**
+Proficient with: **Probability & Statistics, Python, Machine Learning(scikit-learn, xgboost, Tensorflow), FastAPI, Container: Docker, AWS (S3, ECS), MLflow, DVC, MLop, Git.**
 
 Familiar with: **HTML, CSS, JavaScript, R, PyTorch**
 
