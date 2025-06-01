@@ -10,7 +10,7 @@ header:
 
 # About me
 
-I'm currently working for [AOK Rheinland/Hamburg - The health insurance company](https://www.aok.de/pk/rh/) in Düsseldorf, as a full-time **BI-Engineer**, since June 2017.
+I'm currently working for [AOK Rheinland/Hamburg - The health insurance company](https://www.aok.de/pk/rh/) in Düsseldorf, as a full-time **BI-Engineer & Analytic**, since June 2017.
 
 ---
 
@@ -30,6 +30,7 @@ I have been SAP Business Intelligence Specialist .
 
 - **[T-Systems International](https://www.t-systems.com/)** - March 2012 - Jan. 2015. St. Petersburg (Russia):  
   I have been SAP Business Intelligence Specialist . 
+
 ## Education
 
 - **[FOM University of Applied Sciences for Economics and Management](https://www.fom.de/)** - Cologne (Germany):  
@@ -40,15 +41,15 @@ I have been SAP Business Intelligence Specialist .
 
 ## Certificate
 
-[TensorFlow Developer Certificate](https://www.credential.net/43e89713-a780-484f-957e-b9e5a7d72696#acc.zeXnIt5o)
+- **[TensorFlow Developer Certificate](https://www.credential.net/43e89713-a780-484f-957e-b9e5a7d72696#acc.zeXnIt5o)**
 
-[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/XE5L6AENRSP5)
-[Calculus for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/XWNLN87B5F3E)
-[Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/AL74EV9U2ZKN)
-[Machine Learning](https://www.coursera.org/account/accomplishments/specialization/PDVUJAKCGYXG)
-[Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/GMC67LJ5URNQ)
-[Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/BZPLF23A484V)
-[Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/verify/7VY7WBZJLVQE)
+- **[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/XE5L6AENRSP5)**
+- **[Calculus for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/XWNLN87B5F3E)**
+- **[Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/AL74EV9U2ZKN)**
+- **[Machine Learning](https://www.coursera.org/account/accomplishments/specialization/PDVUJAKCGYXG)**
+- **[Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/GMC67LJ5URNQ)**
+- **[Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/BZPLF23A484V)**
+- **[Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/verify/7VY7WBZJLVQE)**
 
 ---
 
