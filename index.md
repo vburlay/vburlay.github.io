@@ -1,22 +1,22 @@
 ---
-title: 'Rafael Cartenet'
+title: 'Vladimir Burlay'
 layout: single
 author_profile: true
 excerpt: 'Data Engineer based in Shanghai. Looking for new career opportunities.'
 header:
-  overlay_image: /images/paris.jpg
+  overlay_image: /images/piter.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 # About me
 
-I'm currently working remotely for [Xco-Analytics](https://www.colonnagroup.fr/xco-analytics/) in Shanghai, as a full-time **Lead Data Engineer**, since February 2021.
+I'm currently working for [AOK Rheinland/Hamburg - The health insurance company](https://www.aok.de/pk/rh/) in Düsseldorf, as a full-time **BI-Engineer**, since June 2017.
 
 ---
 
 *As a problem-solving enthusiast, I have always been eager to meet new technical challenges, where I can learn some new things and feed my curiosity.  
-I got myself into Data Science early in my education and had the chance to get my hands on all kinds of data, from sequential to spatial, images, audio signals, BI data etc.  
-As an R&D Engineer, I love to put forward my technical and analytical skills, tackle original problems and learn every day.*
+I got myself into Data Science early in my education in 2022 and had the chance to get my hands on all kinds of data, from sequential to spatial, images, audio signals, BI data etc.  
+As an BI Engineer & Data Science, I love to put forward my technical and analytical skills, tackle original problems and learn every day.*
 
 You can check about my different projects on my [projects page](https://rafaelcartenet.github.io/projects/)
 
@@ -49,21 +49,20 @@ Familiar with: **Java**
 
 ## Languages
 
-| Language | Level  |
-|----------|--------|
-| English  | Fluent |
-| French   | Fluent |
-| Mandarin | Intermediate (preparing HSK4) |
-| Spanish  | Proficient |
+| Language | Level            |
+|----------|------------------|
+| Russian  | Fluent           |
+| German   | Intermediate     |
+| English  | Pre-Intermediate |
 
 ## CV
 
 Find attached the PDF version of my CVs:  
 *English version*: [CV]({{ site.url }}/download/CV_english.pdf)  
-*French version*: [CV]({{ site.url }}/download/CV_french.pdf)
 
-Update: 2020/01/13
+
+Update: 2025/01/06
 
 ## Contact me
 
-For any inquires, you can reach me via email: **_[rafael.cartenet@gmail.com](mailto:rafael.cartenet@gmail.com)_**
+For any inquires, you can reach me via email: **_[vladimir.burlay@gmail.com](mailto:vladimir.burlay@gmail.com)_**
