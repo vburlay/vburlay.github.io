@@ -25,8 +25,8 @@ You can check about my different projects on my [projects page](https://rafaelca
 - **[Company AOK Rheinland/Hamburg](https://www.aok.de/pk/rh/)** - june 2017 - present. Düsseldorf:  
   I work in a cross-functional team with Software Engineers, Analysts and Product Menagers with the Forecasting and Optimisation domains. I have been working on *Data Analysis, SQL - Programming in SAP HANA, Reporting* and *Advanced Algorithms*.
 
-  - **[NTT DATA](https://www.nttdata.com/global/en/)** - Feb. 2015 - Feb. 2016. Munich (Germany)  
-  I have been SAP Business Intelligence Specialist .
+- **[NTT DATA](https://www.nttdata.com/global/en/)** - Feb. 2015 - Feb. 2016. Munich (Germany)  
+I have been SAP Business Intelligence Specialist .
 
 - **[T-Systems International](https://www.t-systems.com/)** - March 2012 - Jan. 2015. St. Petersburg (Russia):  
   I have been SAP Business Intelligence Specialist . 
