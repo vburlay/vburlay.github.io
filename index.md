@@ -16,7 +16,8 @@ I'm currently working for [AOK Rheinland/Hamburg - The health insurance company]
 
 *As a problem-solving enthusiast, I have always been eager to meet new technical challenges, where I can learn some new things and feed my curiosity.  
 I got myself into Data Science early in my education in 2022 and had the chance to get my hands on all kinds of data, from sequential to spatial, images, audio signals, BI data etc.  
-I like to develop and fine-tune models across **predictive analytics using time series, distributional analysis, supervised and unsupervised learning**. As an BI Engineer & Analytic, I'm eager to grow technical expertise and create real business impact in a collaborative environment.*
+I like to develop and fine-tune models across **predictive analytics using time series, distributional analysis, supervised and unsupervised learning**. 
+As an BI Engineer & Analytic, I'm eager to grow technical expertise and create real business impact in a collaborative environment, eager to learn and grow in the field of data science.*
 
 You can check about my different projects on my [projects page](https://vburlay.github.io/)
 
