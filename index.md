@@ -19,7 +19,7 @@ I got myself into Data Science early in my education in 2022 and had the chance 
 I like to develop and fine-tune models across **predictive analytics using time series, distributional analysis, supervised and unsupervised learning**. 
 As an BI Engineer & Analytic, I'm eager to grow technical expertise and create real business impact in a collaborative environment, eager to learn and grow in the field of data science.*
 
-You can check about my different projects on my [projects page](https://vburlay.github.io/)
+You can check about my different projects on my [projects page](https://projects.github.io/)
 
 ## Previous work experiences
 
