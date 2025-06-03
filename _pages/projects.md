@@ -21,3 +21,9 @@ In this program was used an algorithm by localizing (Segmentation - **U-Net**) a
 
 - [**Allstate Claim Prediction Challenge**](https://github.com/vburlay/allstate_claim_prediction): 
 *Predicting automobile liability insurance claim payments based on vehicle characteristics.*
+
+
+## API
+
+- [**FastAPI for Severstal**](https://github.com/vburlay/Severstal_API): 
+*This WebApp help automate the process of locating and classifying surface defects on steel plate.*
