@@ -20,7 +20,7 @@ In this program was used an algorithm by localizing (Segmentation - **U-Net**) a
 ## Predictive analytics
 
 - [**Allstate Claim Prediction Challenge**](https://github.com/vburlay/allstate_claim_prediction): 
-*Predicting automobile liability insurance claim payments based on vehicle characteristics.*
+*Predicting automobile liability insurance claim payments based on vehicle characteristics(**R Shiny**).*
 
 
 ## API
