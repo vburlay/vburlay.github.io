@@ -35,7 +35,7 @@ You can check about my different projects on my [projects page](https://vburlay.
 ## Education
 
 - **[FOM Hochschule](https://www.fom.de/)** - Cologne (Germany):  
-  I graduated from FOM with a Master of Science (M.Sc.) in September 2022, majoring in Applied Big Data & Business Analytics. I completed my initial background with skills in *Deep-Learning*, Probability & Statistics, Computer Vision as well as Project Management.
+  I graduated from FOM with a Master of Science (M.Sc.) in September 2022, majoring in Applied Big Data & Business Analytics. I completed my initial background with skills in Deep-Learning, Probability & Statistics, Computer Vision as well as Project Management.
 
 - **[Peter the Great St. Petersburg Polytechnic University](https://english.spbstu.ru/)** - St. Petersburg (Russia):  
   I studied abroad for a 3 years in the university of SPBSTU in Russia, where I specialized in *Applied Mathematics* and *Computer Science*.
@@ -56,7 +56,7 @@ You can check about my different projects on my [projects page](https://vburlay.
 
 ## Skills
 
-Proficient with: **Probability & Statistics, Python, Machine Learning(scikit-learn, xgboost, Tensorflow), FastAPI, Container: Docker, AWS (S3, ECS), MLflow, DVC, MLop, Git.**
+Proficient with: **Probability & Statistics, Python, Machine Learning(scikit-learn, xgboost, Tensorflow), FastAPI, Container: Docker, AWS (S3, ECS), MLflow, DVC, MLOps, Git.**
 
 Familiar with: **HTML, CSS, JavaScript, R, PyTorch**
 
