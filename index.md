@@ -71,7 +71,7 @@ Familiar with: **HTML, CSS, JavaScript, R, PyTorch**
 ## CV
 
 Find attached the PDF version of my CVs:  
-*German version*: [CV]({{ site.url }}/download/CV_english.pdf)  
+*German version*: [CV]({{ site.url }}/download/Lebenslauf.pdf)  
 
 
 Update: 2025/01/06
