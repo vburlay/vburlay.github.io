@@ -2,80 +2,211 @@
 title: 'Vladimir Burlay'
 layout: single
 author_profile: true
-excerpt: 'Business Intelligence Developer & Analytics based in Düsseldorf. Looking for new career opportunities.'
+
+excerpt: >
+  Decision Intelligence, Operational Analytics,
+  Forecasting, Risk-Oriented Systems,
+  and Analytical Thinking under Uncertainty.
+
 header:
   overlay_image: /images/piter.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.5
 ---
 
 # About me
 
-I'm currently working for [AOK Rheinland/Hamburg - The health insurance company](https://www.aok.de/pk/rh/) in Düsseldorf, as a full-time **BI-Engineer & Analytic**, since June 2017.
+I am a BI Engineer & Analytics professional based in Germany,
+working at the intersection of:
+
+- operational analytics
+- forecasting
+- anomaly detection
+- decision intelligence
+- probabilistic risk thinking
+- analytical system design
+
+My current focus is on building analytical systems that help transform
+raw operational data into structured decision support under uncertainty.
+
+You can explore my work in the
+[Projects]({{ site.url }}/projects/)
+and
+[Decision Intelligence]({{ site.url }}/decision_intelligence/)
+sections.
 
 ---
 
-*As a problem-solving enthusiast, I have always been eager to meet new technical challenges, where I can learn some new things and feed my curiosity.  
-I got myself into Data Science early in my education in 2022 and had the chance to get my hands on all kinds of data, from sequential to spatial, images, audio signals, BI data etc.  
-I like to develop and fine-tune models across **predictive analytics using time series, distributional analysis, supervised and unsupervised learning**. 
-As an BI Engineer & Analytic, I'm eager to grow technical expertise and create real business impact in a collaborative environment, eager to learn and grow in the field of data science.*
+## Current Work
 
-You can check about my different projects on my [projects page](https://vburlay.github.io/projects/)
+### [AOK Rheinland/Hamburg](https://www.aok.de/pk/rh/)
+**BI Engineer & Analytics**  
+Düsseldorf, Germany — June 2017 – Present
 
-## Previous work experiences
+I work in a cross-functional environment involving
+software engineering, analytics, forecasting,
+and operational optimization.
 
-- **[Company AOK Rheinland/Hamburg](https://www.aok.de/pk/rh/)** - June 2017 - Present. Düsseldorf (Germany):  
-  I work in a cross-functional team with Software Engineers, Analysts and Product Menagers with the Forecasting and Optimisation domains. I have been working on *Data Analysis, SQL - Programming in SAP HANA, Reporting* and *Advanced Algorithms*.
+My work includes:
 
-- **[NTT DATA](https://www.nttdata.com/global/en/)** - Feb. 2015 - Feb. 2016. Munich (Germany):  
-  I have been SAP Business Intelligence Specialist .
+- SAP HANA SQL development
+- operational analytics and reporting
+- forecasting and KPI systems
+- analytical workflows
+- decision-oriented data analysis
+- experimentation with risk and anomaly detection systems
 
-- **[T-Systems International](https://www.t-systems.com/)** - March 2012 - Jan. 2015. St. Petersburg (Russia):  
-  I have been SAP Business Intelligence Specialist . 
+In recent years, my focus increasingly shifted toward:
+
+- forecasting under uncertainty
+- operational early warning systems
+- risk-oriented monitoring
+- decision intelligence prototypes
+- analytical system architecture
+
+---
+
+## Previous Experience
+
+### [NTT DATA](https://www.nttdata.com/global/en/)
+**SAP Business Intelligence Specialist**  
+Munich, Germany — Feb. 2015 – Feb. 2016
+
+Worked on SAP BI solutions,
+reporting systems,
+and enterprise analytical workflows.
+
+---
+
+### [T-Systems International](https://www.t-systems.com/)
+**SAP Business Intelligence Specialist**  
+St. Petersburg, Russia — March 2012 – Jan. 2015
+
+Worked on SAP Business Intelligence solutions
+and enterprise reporting environments.
+
+---
 
 ## Education
 
-- **[FOM Hochschule](https://www.fom.de/)** - Cologne (Germany):  
-  I graduated from FOM with a Master of Science (M.Sc.) in September 2022, majoring in Applied Big Data & Business Analytics. I completed my initial background with skills in Deep-Learning, Probability & Statistics, Computer Vision as well as Project Management.
+### [FOM Hochschule](https://www.fom.de/)
+Cologne, Germany
 
-- **[Peter the Great St. Petersburg Polytechnic University](https://english.spbstu.ru/)** - St. Petersburg (Russia):  
-  I studied abroad for a 3 years in the university of SPBSTU in Russia, where I specialized in *Applied Mathematics* and *Computer Science*.
+Master of Science (M.Sc.) in
+Applied Big Data & Business Analytics
+(September 2022)
 
-## Certificate
+Main areas of focus:
 
-- **[TensorFlow Developer Certificate](https://www.credential.net/43e89713-a780-484f-957e-b9e5a7d72696#acc.zeXnIt5o)**
-
-- **[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/XE5L6AENRSP5)**
-- **[Calculus for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/XWNLN87B5F3E)**
-- **[Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/AL74EV9U2ZKN)**
-- **[Machine Learning](https://www.coursera.org/account/accomplishments/specialization/PDVUJAKCGYXG)**
-- **[Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/GMC67LJ5URNQ)**
-- **[Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/BZPLF23A484V)**
-- **[Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/verify/7VY7WBZJLVQE)**
+- machine learning
+- probability & statistics
+- forecasting
+- computer vision
+- analytical systems
+- project management
 
 ---
 
-## Skills
+### [Peter the Great St. Petersburg Polytechnic University](https://english.spbstu.ru/)
+St. Petersburg, Russia
 
-Proficient with: **Probability & Statistics, Python, Machine Learning(scikit-learn, xgboost, Tensorflow), FastAPI, Container: Docker, AWS (S3, ECS), MLflow, DVC, MLOps, Git.**
+Studies in:
 
-Familiar with: **HTML, CSS, JavaScript, R, PyTorch**
+- applied mathematics
+- computer science
+
+---
+
+## Interests & Direction
+
+My current interests focus on:
+
+- decision intelligence systems
+- forecasting and temporal dynamics
+- probabilistic operational analytics
+- anomaly and instability detection
+- scenario simulation
+- operational risk systems
+- systems thinking under uncertainty
+
+I am particularly interested in how analytical systems
+can support better decisions in complex operational environments.
+
+---
+
+## Certifications
+
+- [TensorFlow Developer Certificate](https://www.credential.net/43e89713-a780-484f-957e-b9e5a7d72696#acc.zeXnIt5o)
+- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/XE5L6AENRSP5)
+- [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/PDVUJAKCGYXG)
+- [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/GMC67LJ5URNQ)
+- [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/BZPLF23A484V)
+- [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/verify/7VY7WBZJLVQE)
+- [Calculus for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/XWNLN87B5F3E)
+- [Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/verify/AL74EV9U2ZKN)
+
+---
+
+## Technical Skills
+
+### Core Areas
+
+- Probability & Statistics
+- Forecasting & Time Series Analysis
+- Operational Analytics
+- Decision-Oriented Analytics
+- Machine Learning
+- Risk & Anomaly Detection
+
+---
+
+### Technologies
+
+- Python
+- SQL / SAP HANA
+- DuckDB
+- scikit-learn
+- XGBoost
+- TensorFlow
+- FastAPI
+- Docker
+- MLflow
+- DVC
+- Git
+
+---
+
+### Familiar With
+
+- PyTorch
+- AWS (S3, ECS)
+- R
+- HTML / CSS / JavaScript
+
+---
 
 ## Languages
 
-| Language | Level        |
-|----------|--------------|
-| Russian  | Fluent       |
-| German   | Intermediate |
-| English  | Intermediate |
+| Language | Level |
+|---|---|
+| Russian | Fluent |
+| German | Intermediate |
+| English | Intermediate |
+
+---
 
 ## CV
 
-Find attached the PDF version of my CVs:  
-*German version*: [CV]({{ site.url }}/download/Lebenslauf.pdf)  
+German version:
+[CV]({{ site.url }}/download/Lebenslauf.pdf)
 
+---
 
-Update: 2025/01/06
+## Contact
 
-## Contact me
+For inquiries or collaboration opportunities:
 
-For any inquires, you can reach me via email: **_[vladimir.burlay@gmail.com](mailto:vladimir.burlay@gmail.com)_**
+📧 [vladimir.burlay@gmail.com](mailto:vladimir.burlay@gmail.com)
+
+---
+
+_Update: 2026/05/19_
