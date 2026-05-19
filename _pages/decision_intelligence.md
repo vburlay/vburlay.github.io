@@ -27,23 +27,72 @@ Operational Decision Intelligence Prototype for:
 
 ## Executive Summary
 
-The IQ Early Warning System transforms operational signals into structured decision intelligence.
+The IQ Early Warning System is an operational decision-support prototype
+for detecting early signs of workload pressure, process instability,
+and increasing operational risk.
 
-The system combines:
+It combines forecasting, anomaly detection, risk signals,
+and scenario logic to help identify where attention may be needed
+before problems become visible through standard reporting.
 
-- monitoring
-- forecasting
-- anomaly detection
-- probabilistic risk assessment
-- scenario simulation
-
-to support proactive decision-making under uncertainty.
+The goal is not to automate decisions,
+but to provide structured signals for prioritization,
+intervention planning, and risk-oriented monitoring.
 
 ---
 
-## System Logic
+## Business Problem
+
+Operational reporting often describes what has already happened,
+but teams also need earlier visibility into what may be developing.
+
+Relevant operational signals can include:
+
+- incoming workload
+- processed volume
+- backlog growth
+- processing time
+- SLA pressure
+- queue volatility
+
+The analytical challenge is to distinguish normal variation
+from signals that may indicate emerging operational pressure.
+
+---
+
+## Decision Intelligence Workflow
 
 Observe → Predict → Detect → Assess → Simulate → Decide
+
+Each step has a specific operational role:
+
+- observe current KPI behavior and workload signals
+- forecast expected short-term development
+- detect deviations from baseline behavior
+- assess severity, persistence, and operational relevance
+- simulate possible future risk states
+- support decisions about prioritization and intervention
+
+Example interpretation:
+a temporary workload increase may be acceptable,
+while persistent backlog growth combined with forecasted pressure
+may indicate the need for earlier operational attention.
+
+---
+
+## Decision Outputs
+
+The system is intended to produce decision-oriented outputs such as:
+
+- forecast versus actual KPI views
+- anomaly markers for unusual operational behavior
+- risk signals by team, queue, process, or time period
+- prioritized areas requiring attention
+- scenario views for alternative workload or capacity assumptions
+
+These outputs can support decisions such as capacity review,
+case prioritization, escalation, root-cause investigation,
+or monitoring of intervention effects.
 
 ---
 

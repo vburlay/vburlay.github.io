@@ -15,20 +15,24 @@ header:
 
 # About me
 
-I am a BI Engineer & Analytics professional based in Germany,
-working at the intersection of:
+I am a Business Intelligence Engineer and Analytics professional
+focused on operational analytics, forecasting,
+and decision intelligence systems.
 
-- operational analytics
-- forecasting
-- anomaly detection
-- decision intelligence
+My work centers on turning operational data into structured signals
+for monitoring, risk assessment,
+and decision support under uncertainty.
+
+Current focus areas:
+
+- operational analytics and KPI systems
+- forecasting and temporal dynamics
+- anomaly and instability detection
 - probabilistic risk thinking
+- decision intelligence prototypes
 - analytical system design
 
-My current focus is on building analytical systems that help transform
-raw operational data into structured decision support under uncertainty.
-
-You can explore my work in the
+You can explore selected work in the
 [Projects]({{ site.url }}/projects/)
 and
 [Decision Intelligence]({{ site.url }}/decision_intelligence/)
