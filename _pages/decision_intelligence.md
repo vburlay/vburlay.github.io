@@ -3,7 +3,9 @@ title: 'Decision Intelligence'
 layout: single
 permalink: /decision_intelligence/
 author_profile: true
-excerpt: 'You will find below a non-exhaustive list of the different projects I realized during the last years, as well as links to the source codes, if publicly available.'
+excerpt: 'Exploration of operational decision intelligence systems,
+  forecasting, anomaly detection, probabilistic risk assessment,
+  scenario simulation, and analytical thinking under uncertainty.'
 header:
   overlay_image: /images/piter.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
