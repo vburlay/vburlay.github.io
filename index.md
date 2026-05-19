@@ -201,7 +201,7 @@ can support better decisions in complex operational environments.
 ## CV
 
 German version:
-[CV]({{ site.url }}/download/Lebenslauf.pdf)
+[CV]({{ site.url }}/download/Lebenslauf_Vladimir_Burlay_Modern.pdf)
 
 ---
 
