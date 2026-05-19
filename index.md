@@ -1,5 +1,5 @@
 ---
-title: 'Vladimir Burlay'
+title: 'Operational Analytics & Decision Intelligence'
 layout: single
 author_profile: true
 
