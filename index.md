@@ -152,6 +152,17 @@ Studies in:
 
 ---
 
+## Current Learning Direction
+
+I am deepening my work at the intersection of probability, statistics,
+forecasting, operational risk analysis, and decision intelligence.
+
+This includes a long-term quantitative learning path through the MITx Statistics
+& Data Science MicroMasters track, with the goal of strengthening the quantitative
+basis for decision support under uncertainty.
+
+---
+
 ## Languages
 
 | Language | Level |
