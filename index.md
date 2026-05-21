@@ -58,47 +58,16 @@ prioritization, and intervention planning.
 **BI Engineer & Analytics**  
 Düsseldorf, Germany — June 2017 – Present
 
-I work in a cross-functional environment involving
-software engineering, analytics, forecasting,
-and operational optimization.
-
-My work includes:
-
-- SAP HANA SQL development
-- operational analytics and reporting
-- forecasting and KPI systems
-- analytical workflows
-- decision-oriented data analysis
-- experimentation with risk and anomaly detection systems
-
-In recent years, my focus increasingly shifted toward:
-
-- forecasting under uncertainty
-- operational early warning systems
-- risk-oriented monitoring
-- decision intelligence prototypes
-- analytical system architecture
+- SAP HANA SQL and operational reporting
+- KPI systems and operational analytics
+- forecasting and risk-oriented monitoring
+- decision-support prototypes
 
 ---
 
 ## Previous Experience
 
-### [NTT DATA](https://www.nttdata.com/global/en/)
-**SAP Business Intelligence Specialist**  
-Munich, Germany — Feb. 2015 – Feb. 2016
-
-Worked on SAP BI solutions,
-reporting systems,
-and enterprise analytical workflows.
-
----
-
-### [T-Systems International](https://www.t-systems.com/)
-**SAP Business Intelligence Specialist**  
-St. Petersburg, Russia — March 2012 – Jan. 2015
-
-Worked on SAP Business Intelligence solutions
-and enterprise reporting environments.
+Previous SAP BI and enterprise analytics experience includes work at NTT DATA and T-Systems.
 
 ---
 
@@ -129,23 +98,6 @@ Studies in:
 
 - applied mathematics
 - computer science
-
----
-
-## Interests & Direction
-
-My current interests focus on:
-
-- decision intelligence systems
-- forecasting and temporal dynamics
-- probabilistic operational analytics
-- anomaly and instability detection
-- scenario simulation
-- operational risk systems
-- systems thinking under uncertainty
-
-I am particularly interested in how analytical systems
-can support better decisions in complex operational environments.
 
 ---
 
