@@ -40,6 +40,18 @@ sections.
 
 ---
 
+## Current Focus
+
+I am focusing on the development of analytical systems for operational
+decision support, with emphasis on forecasting, risk signals,
+and early detection of process instability.
+
+The direction combines practical BI engineering with decision intelligence:
+turning operational data into interpretable signals that support monitoring,
+prioritization, and intervention planning.
+
+---
+
 ## Current Work
 
 ### [AOK Rheinland/Hamburg](https://www.aok.de/pk/rh/)
