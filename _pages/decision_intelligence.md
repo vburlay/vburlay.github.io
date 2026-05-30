@@ -98,19 +98,19 @@ or monitoring of intervention effects.
 
 ## Practical Value
 
-The practical value of the system is earlier and more structured
-visibility into emerging operational pressure.
+Operational risks are often recognized only after increasing gap days,
+persistent deviations, or growing workload pressure have already become
+visible at team level.
 
-It can help teams:
+The IQ Early Warning System extends standard monitoring with earlier
+detection of critical team-level developments.
 
-- identify where attention is needed before backlog or SLA pressure becomes critical
-- distinguish temporary variation from persistent operational risk
-- prioritize teams, queues, or processes for review
-- support capacity and intervention discussions with interpretable signals
-- monitor whether an intervention reduces risk over time
+By combining monitoring, forecasting, anomaly detection, and risk signals,
+the system helps identify teams with unusual deviations, increasing pressure,
+or unstable trends before problems become more pronounced.
 
-The system is designed to complement operational judgment
-with forward-looking analytical context.
+The goal is to improve operational transparency and provide earlier support
+for day-to-day decision-making.
 
 ---
 
