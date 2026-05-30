@@ -110,7 +110,7 @@ the system helps identify teams with unusual deviations, increasing pressure,
 or unstable trends before problems become more pronounced.
 
 The goal is to improve operational transparency and provide earlier support
-for day-to-day decision-making.
+for day-to-day decision-making. 
 
 ---
 
