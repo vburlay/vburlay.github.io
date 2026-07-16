@@ -104,6 +104,7 @@ Studies in:
 ## Certifications
 
 - [TensorFlow Developer Certificate](https://www.credential.net/43e89713-a780-484f-957e-b9e5a7d72696#acc.zeXnIt5o)
+- [edX Verified Certificate for Introduction to Probability](https://courses.edx.org/certificates/49183954950c4c2f93a1ecc348198cf8) (edX, issued June 2026)
 - [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/XE5L6AENRSP5)
 - [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/PDVUJAKCGYXG)
 - [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/GMC67LJ5URNQ)
