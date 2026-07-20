@@ -121,6 +121,7 @@ St. Petersburg, Russland
 ## Zertifikate
 
 - TensorFlow Developer Certificate
+- edX Verified Certificate for Introduction to Probability, edX, Juni 2026
 - Deep Learning Specialization
 - Machine Learning Specialization
 - Advanced Learning Algorithms
@@ -146,4 +147,3 @@ St. Petersburg, Russland
 - Russisch: fließend
 - Deutsch: fortgeschritten
 - Englisch: fortgeschritten
-

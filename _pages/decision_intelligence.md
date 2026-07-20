@@ -80,6 +80,22 @@ may indicate the need for earlier operational attention.
 
 ---
 
+## System Architecture
+
+The prototype follows a layered decision pipeline:
+
+- data access and feature preparation with DuckDB
+- forecasting and baseline modeling
+- anomaly detection and deviation scoring
+- risk assessment and time-to-risk logic
+- scenario simulation and intervention analysis
+- decision-support views in a Dash application
+
+This structure keeps data access, analytical logic, orchestration,
+and presentation separated.
+
+---
+
 ## Decision Outputs
 
 The system is intended to produce decision-oriented outputs such as:
@@ -110,10 +126,24 @@ the system helps identify teams with unusual deviations, increasing pressure,
 or unstable trends before problems become more pronounced.
 
 The goal is to improve operational transparency and provide earlier support
-for day-to-day decision-making. 
+for day-to-day decision-making.
+
+---
+
+## Implemented Capabilities
+
+Current implementation areas include monitoring, forecast comparison,
+anomaly scoring, risk classification, time-to-risk indicators,
+scenario simulation, intervention effects, and decision-support recommendations.
+
+Risk states are used to translate analytical signals into operational categories
+such as normal, watch, and critical.
 
 ---
 
 ## Current Status
 
-Prototype under active development using real operational data.
+Prototype under active development using synthetically generated operational data.
+
+The synthetic dataset is designed to preserve realistic operational patterns
+without exposing customer, SAP, or production data.

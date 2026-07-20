@@ -125,6 +125,6 @@ Core focus areas include:
 - time-to-risk estimation
 - decision-support logic
 
-The prototype is built on real operational insurance data
+The public prototype uses synthetically generated operational data
 and explores how analytical systems can transform
-raw operational signals into structured decision intelligence.
+operational signals into structured decision intelligence.
