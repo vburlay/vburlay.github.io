@@ -13,7 +13,7 @@ header:
 
 
 
-# IQ Early Warning System
+# IQ Early Warning System / Decision Intelligence Platform
 
 Operational Decision Intelligence Prototype for:
 
@@ -27,7 +27,8 @@ Operational Decision Intelligence Prototype for:
 
 ## Executive Summary
 
-The IQ Early Warning System is an operational decision-support prototype
+The IQ Early Warning System, developed as a Decision Intelligence Platform,
+is an operational decision-support prototype
 for detecting early signs of workload pressure, process instability,
 and increasing operational risk.
 
@@ -96,6 +97,44 @@ and presentation separated.
 
 ---
 
+## Risk Interpretation
+
+Risk is interpreted through a combination of forecast deviation,
+anomaly intensity, gap signals, and time-to-risk indicators.
+
+The system translates analytical signals into operational states such as:
+
+- normal
+- watch
+- critical
+
+This helps move from raw KPI movement to a more actionable view
+of team-level risk and operational urgency.
+
+---
+
+## Simulation and Intervention Layer
+
+The simulation layer supports two practical views:
+
+- scenario analysis for changed workload, trend, or volatility assumptions
+- intervention analysis for corrective actions and expected risk reduction
+
+This layer connects prediction with operational action by comparing
+baseline behavior against simulated or intervention-adjusted outcomes.
+
+---
+
+## Decision Support Layer
+
+The decision-support layer translates current risk signals and simulation
+results into action-oriented recommendations.
+
+It is designed to explain why a recommendation is relevant,
+which KPI changes are expected, and which alternatives should be considered.
+
+---
+
 ## Decision Outputs
 
 The system is intended to produce decision-oriented outputs such as:
@@ -138,6 +177,16 @@ scenario simulation, intervention effects, and decision-support recommendations.
 
 Risk states are used to translate analytical signals into operational categories
 such as normal, watch, and critical.
+
+---
+
+## Technology Stack
+
+- Python
+- Dash / Plotly
+- DuckDB
+- Pandas / NumPy
+- modular service and domain layers
 
 ---
 
