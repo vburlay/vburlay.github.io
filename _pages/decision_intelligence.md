@@ -157,15 +157,21 @@ Operational risks are often recognized only after increasing gap days,
 persistent deviations, or growing workload pressure have already become
 visible at team level.
 
-The IQ Early Warning System extends standard monitoring with earlier
-detection of critical team-level developments.
+The IQ Early Warning System extends standard monitoring with an analytical
+decision-support layer that connects current KPI signals, forecast deviations,
+risk status, simulation results, and intervention options.
 
-By combining monitoring, forecasting, anomaly detection, and risk signals,
-the system helps identify teams with unusual deviations, increasing pressure,
-or unstable trends before problems become more pronounced.
+By combining monitoring, forecasting, anomaly detection, risk signals,
+scenario analysis, and decision-support recommendations, the system helps
+identify teams with unusual deviations, increasing pressure, or unstable trends
+before problems become more pronounced.
 
-The goal is to improve operational transparency and provide earlier support
-for day-to-day decision-making.
+It also supports operational discussions by showing how risk may change under
+different workload scenarios or corrective measures, and by comparing expected
+effects against the current baseline.
+
+The goal is to improve operational transparency and provide earlier,
+more structured support for day-to-day operational decisions.
 
 ---
 
